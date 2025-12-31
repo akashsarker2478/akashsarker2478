@@ -43,7 +43,7 @@ Passionate MERN Stack Developer skilled in building modern, responsive, and scal
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/akash-sarker-your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/akashsarker/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:akashsarker2478@gmail.com">
