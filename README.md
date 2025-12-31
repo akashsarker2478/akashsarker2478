@@ -36,5 +36,7 @@ I am a passionate web developer specializing in Frontend and MERN Stack developm
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsarker2478)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashsarker2478&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker2478&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashsarker2478&show_icons=true&count_private=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker2478&layout=compact&count_private=true&theme=radical)
