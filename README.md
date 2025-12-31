@@ -1,58 +1,40 @@
-![Banner](https://raw.githubusercontent.com/akashsarker2478/akashsarker2478/main/banner.png)
-<!-- Banner ইমেজের জন্য: নিচের যেকোনো একটা ডাউনলোড করে repo-তে banner.png নামে আপলোড করো -->
+![Banner](https://link-to-your-banner-image.com/banner.png)
 
-<h1 align="center">Hi 👋, I'm Akash Sarker</h1>
-<h3 align="center">Frontend & MERN Stack Developer</h3>
+# Hi, I'm Akash Sarker 👋
+## Frontend & MERN Stack Developer
 
-<p align="left">
-Passionate MERN Stack Developer skilled in building modern, responsive, and scalable web applications. Recently completed the intensive MERN Junior Stack Development course from Programming Hero (2024) and graduated with a BSc in Computer Science & Engineering from National University, Bangladesh.
-</p>
+### About Me
+I am a passionate web developer specializing in Frontend and MERN Stack development. I enjoy building scalable web applications and exploring new technologies to enhance my skills.
 
-### 🔭 Current Activities
-- 🔭 Working on full-stack MERN projects to strengthen real-world development skills
-- 🌱 Learning advanced React patterns, Next.js, and TypeScript
-- 👯 Open to collaborating on open-source MERN or React projects
-- 💬 Ask me about React.js, Node.js, MongoDB, Tailwind CSS, or full-stack web development
+### Current Activities
+- Exploring **Next.js** for modern web apps
+- Working on a **Tourism Website**
+- Learning **TypeScript** alongside JavaScript
+- Building **full-stack projects** using MERN
 
-### 🛠️ Tech Stack & Skills
+### Skills
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
-</p>
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 📊 GitHub Stats
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashsarker2478&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Akash's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker2478&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<!-- Working Streak Stats (DenverCoder1's official fork) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashsarker2478&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+### Social Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashsarker)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsarker2478)
 
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akashsarker/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:akashsarker2478@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/akashsarker2478">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  📍 Dhaka, Bangladesh<br>
-  📱 WhatsApp: 01784-598998 (on request)
-</p>
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashsarker2478&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker2478&layout=compact&theme=radical)
