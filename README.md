@@ -1,4 +1,4 @@
-![Banner](https://link-to-your-banner-image.com/banner.png)
+![Banner](https://i.ibb.co.com/ybmqQ3B/Chat-GPT-Image-Dec-31-2025-01-40-20-AM.png)
 
 # Hi, I'm Akash Sarker 👋
 ## Frontend & MERN Stack Developer
