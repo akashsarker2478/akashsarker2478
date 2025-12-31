@@ -33,9 +33,9 @@ Passionate MERN Stack Developer skilled in building modern, responsive, and scal
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker2478&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Streak Stats Alternative (working in 2025) -->
+<!-- Working Streak Stats (DenverCoder1's official fork) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akashsarker2478&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashsarker2478&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🔗 Connect with Me
