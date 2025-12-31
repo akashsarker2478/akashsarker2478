@@ -29,15 +29,13 @@ Passionate MERN Stack Developer skilled in building modern, responsive, and scal
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsarker2478&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashsarker2478&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Akash's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker2478&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- Streak Stats Alternative (working in 2025) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsarker2478&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker2478&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=akashsarker2478&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🔗 Connect with Me
